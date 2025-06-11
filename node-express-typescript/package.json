@@ -30,7 +30,7 @@
     "@types/marked": "^6.0.0",
     "@types/mocha": "^10.0.10",
     "@types/morgan": "^1.9.10",
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "@types/power-assert": "^1.5.12",
     "@types/serve-favicon": "^2.5.7",
     "browser-sync": "^3.0.4",
@@ -40,7 +40,7 @@
     "gulp-nodemon": "^2.5.0",
     "gulp-tsb": "^4.0.6",
     "marked": "^15.0.12",
-    "mocha": "^11.5.0",
+    "mocha": "^11.6.0",
     "nodemon": "^3.1.10",
     "typescript": "^5.8.3"
   }
